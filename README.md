@@ -134,12 +134,7 @@ Each folder contains metrics (AUC, anomaly rate), To analyse the results, go to 
 If you use OnMROT in your research, please cite our paper:
 
 ```bibtex
-@inproceedings{onmrot2026,
-  title     = {Unsupervised Online Anomaly Detection in Data Streams via Optimal Transport},
-  author    = {Tcheneghon Motcheyo, Herman and Falih, Issam and Mephu Nguifo, Engelbert},
-  booktitle = {OWAD: Open World Anomaly Detection in Dynamic and Evolving Environments, IEEE International Conference on Data Mining Workshops (ICDMW)},
-  year      = {2026}
-}
+
 ```
 
 ---
